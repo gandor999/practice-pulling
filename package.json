@@ -1,0 +1,27 @@
+{
+  "name": "practice-pulling",
+  "description": "Add readme.md for new-branch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandor999/practice-pulling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gandor999/practice-pulling/issues"
+  },
+  "homepage": "https://github.com/gandor999/practice-pulling#readme"
+}
